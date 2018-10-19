@@ -18,6 +18,7 @@ Stop thinking start contributing to leetcode solution
 - [JudgeCircle](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/JudgeCircle.java)
 - [Parentheses](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/Parentheses.java)
 - [PlusOne](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/PlusOne.java)
+- [Search2DMatrix2](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/Search2DMatrix2.java)
 - [MinStack](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/MinStack.java)
 
 ### Medium
